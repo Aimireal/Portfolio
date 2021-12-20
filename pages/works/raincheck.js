@@ -17,13 +17,14 @@ const Project = () => (
             <P>
                 A weather application featuring dynamic wallpapers, icons and an 
                 informative overlook on the upcoming weeks weather. Works across
-                web and android devices (IOS too, but no release available as of 1.9 beta).
+                web and android devices.
             </P>
+            <br/>
             <List>
                 <ListItem>
                     <Meta>Link</Meta>
-                    <Link href="https://github.com/Aimireal/FlutterWeather/releases/tag/v1.9-beta">
-                        https://github.com/Aimireal/FlutterWeather/releases/tag/v1.9-beta
+                    <Link href="https://github.com/Aimireal/Raincheck/releases/tag/v1.9-beta">
+                        https://github.com/Aimireal/Raincheck/releases/tag/v1.9-beta
                     </Link> <ExternalLinkIcon></ExternalLinkIcon>
                 </ListItem>
                 <ListItem>

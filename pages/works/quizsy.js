@@ -17,13 +17,14 @@ const Project = () => (
             <P>
                 A multi-platform quiz game featuring 24 categories and thousands of questions.
                 Has a sleek, simple interface as well as differing difficulties and history for 
-                checking how you got on.
+                checking answers to previous questions
             </P>
+            <br/>
             <List>
                 <ListItem>
                     <Meta>Link</Meta>
-                    <Link href="https://github.com/Aimireal/FlutterQuiz/releases/tag/v1.0">
-                        https://github.com/Aimireal/FlutterQuiz/releases/tag/v1.0
+                    <Link href="https://github.com/Aimireal/Quizsy/releases/tag/v1.0">
+                        https://github.com/Aimireal/Quizsy/releases/tag/v1.0
                     </Link> <ExternalLinkIcon></ExternalLinkIcon>
                 </ListItem>
                 <ListItem>

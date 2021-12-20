@@ -8,23 +8,25 @@ const Project = () => (
     <Layout>
         <Container>
             <Title>
-                RecipeApp <Badge>2021</Badge>
+                COVID Tracker <Badge>2021</Badge>
             </Title>
             <WorkImage
-                src="/images/works/recipeapp-eyecatcher.png"
-                alt="RecipeApp"
+                src="/images/works/covidtracker-eyecatcher.png"
+                alt="Covid Tracker"
             />
             <P>
-                A quick JavaScript project to search recipes or components
-                and for any given query return results linking to full recipes
-                as well as instructions
+                A JavaScript/React webpage for a COVID tracking site 
+                using the UK Governments API for daily updates on the pandemic
+                <br/><br/>
+                Filtering available for regional data, to showcase cases/deaths
+                by area as well as a general overview of everything
             </P>
             <br/>
             <List>
                 <ListItem>
                     <Meta>Link</Meta>
-                    <Link href="https://aimireal.github.io/ReactRecipeApp/">
-                        https://aimireal.github.io/ReactRecipeApp/
+                    <Link href="https://github.com/Aimireal/React-Covid-Tracker">
+                        https://github.com/Aimireal/React-Covid-Tracker
                     </Link> <ExternalLinkIcon></ExternalLinkIcon>
                 </ListItem>
                 <ListItem>
@@ -33,11 +35,11 @@ const Project = () => (
                 </ListItem>
                 <ListItem>
                     <Meta>Stack</Meta>
-                    <Link>JavaScript | React | Edamam</Link>
+                    <Link>JavaScript | React</Link>
                 </ListItem>
             </List>
             <br/>
-            <WorkImage src="/images/works/recipeapp.png"/>
+            <WorkImage src="/images/works/covidtracker.png"/>
         </Container>
     </Layout>
 )

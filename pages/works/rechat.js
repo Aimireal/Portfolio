@@ -15,15 +15,19 @@ const Project = () => (
                 alt="ReChat"
             />
             <P>
-                A beautified dark mode web based messenger application based on ChatEngine.io 
-                which allows users to text over the web privately or in groups as well as send 
-                images, videos or other files natively. Deployed onto Netlify.
+                A beautified dark mode web based messenger application based on ChatEngine.io
+                and written in ReactJS
+                <br/><br/>
+                Utilises Google and Facebook accounts for signing up/login. It uses Firebase
+                to store backend data. Chat features include single or group chats, full 
+                support for media and formatting as well as a clean material design
             </P>
+            <br/>
             <List>
                 <ListItem>
                     <Meta>Link</Meta>
-                    <Link href="https://aimireal-rechat.netlify.app/chats">
-                        https://aimireal-rechat.netlify.app/chats
+                    <Link href="https://github.com/Aimireal/Rechat">
+                        https://github.com/Aimireal/Rechat
                     </Link> <ExternalLinkIcon></ExternalLinkIcon>
                 </ListItem>
                 <ListItem>

@@ -8,23 +8,23 @@ const Project = () => (
     <Layout>
         <Container>
             <Title>
-                RecipeApp <Badge>2021</Badge>
+                Photography <Badge>2021</Badge>
             </Title>
             <WorkImage
-                src="/images/works/recipeapp-eyecatcher.png"
-                alt="RecipeApp"
+                src="/images/works/photography-eyecatcher.png"
+                alt="Photography"
             />
             <P>
-                A quick JavaScript project to search recipes or components
-                and for any given query return results linking to full recipes
-                as well as instructions
+                A blog-style website aimed at displaying a users photography
+                talents and to act as a portfolio/showcase for this user
+                Displays JavaScript and React design elements
             </P>
             <br/>
             <List>
                 <ListItem>
                     <Meta>Link</Meta>
-                    <Link href="https://aimireal.github.io/ReactRecipeApp/">
-                        https://aimireal.github.io/ReactRecipeApp/
+                    <Link href="https://github.com/Aimireal/Photography-Website">
+                        https://github.com/Aimireal/Photography-Website
                     </Link> <ExternalLinkIcon></ExternalLinkIcon>
                 </ListItem>
                 <ListItem>
@@ -33,11 +33,11 @@ const Project = () => (
                 </ListItem>
                 <ListItem>
                     <Meta>Stack</Meta>
-                    <Link>JavaScript | React | Edamam</Link>
+                    <Link>JavaScript | React</Link>
                 </ListItem>
             </List>
             <br/>
-            <WorkImage src="/images/works/recipeapp.png"/>
+            <WorkImage src="/images/works/placeholder.png"/>
         </Container>
     </Layout>
 )

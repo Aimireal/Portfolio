@@ -17,8 +17,9 @@ const Project = () => (
             <P>
                 A template to build off for e-commerce websites. This one is more
                 of a basic one to demonstrate design elements and to be part of a 
-                challenge to make a quick but serviceable website.
+                challenge to make a quick but serviceable website
             </P>
+            <br/>
             <List>
                 <ListItem>
                     <Meta>Link</Meta>
