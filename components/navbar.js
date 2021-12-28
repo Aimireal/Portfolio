@@ -26,7 +26,7 @@ const LinkItem = ({ href, path, _target, children, ...props }) => {
             <Link
                 p={2}
                 bg={active ? 'pinkyPink' : undefined}
-                color={active ? '#232323' : inactiveColour}
+                color={active ? 'gray' : inactiveColour}
                 _target={_target}
                 {...props}
             >
@@ -76,7 +76,7 @@ const Navbar = props => {
 
                     <LinkItem 
                         _target="_blank"
-                        href="https://github.com/Aimireal/Portfolio-Showcase" 
+                        href="https://github.com/Aimireal" 
                         path={path}
                         display="inline-flex"
                         alignItems="center"

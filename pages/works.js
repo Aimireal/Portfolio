@@ -18,7 +18,7 @@ import uohImg from '../public/images/works/uoh-eyecatcher.png'
 const Works = () => (
     <Layout title="Works">
         <Container>
-            <Heading as="h3" fontsize={20} mb={4}>
+            <Heading as="h3" fontSize={20} mb={4}>
                 My Works
             </Heading>
 

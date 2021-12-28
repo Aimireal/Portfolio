@@ -19,9 +19,9 @@ const Project = () => (
                 React. It is using MongoDB for the database which stores profiles, posts and all
                 contents of a post
                 <br/><br/>
-                Currently in a WIP state due to some learning required for the API
-                App design is almost complete and utilises a dark/light mode theme with complete
-                social features and a walls system
+                Functional friending system as well as posting (Supporting text and common image
+                formats) along with a timeline system to view all of your friends posts, react to
+                them and your own.
             </P>
             <br/>
             <List>
@@ -29,9 +29,6 @@ const Project = () => (
                     <Meta>Link</Meta>
                     <Link href="https://github.com/Aimireal/React-Whispr">
                         https://github.com/Aimireal/React-Whispr
-                    </Link> <ExternalLinkIcon></ExternalLinkIcon>
-                    <Link href="https://github.com/Aimireal/React-Whispr-API">
-                        https://github.com/Aimireal/React-Whispr-API
                     </Link> <ExternalLinkIcon></ExternalLinkIcon>
                 </ListItem>
                 <ListItem>
@@ -44,7 +41,7 @@ const Project = () => (
                 </ListItem>
             </List>
             <br/>
-            <WorkImage src="/images/works/placeholderapp.png"/>
+            <WorkImage src="/images/works/whispr.png"/>
         </Container>
     </Layout>
 )

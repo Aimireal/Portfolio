@@ -40,7 +40,7 @@ const Page = () => {
                     </Heading>
                     <Paragraph>Dylan is a junior full-stack developer in Yorkshire. He has a Batchelors degree in 
                         Computing and has worked on a number of different platforms with a variety of technologies. 
-                        He is experiencedwith the full software development lifecycle and in managing his own projects, 
+                        He is experienced with the full software development lifecycle and in managing his own projects, 
                         and producing them from artefact to long-term support.
                     </Paragraph>
                     <Box align="center" my={4}>

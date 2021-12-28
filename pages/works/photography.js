@@ -23,8 +23,8 @@ const Project = () => (
             <List>
                 <ListItem>
                     <Meta>Link</Meta>
-                    <Link href="https://github.com/Aimireal/Photography-Website">
-                        https://github.com/Aimireal/Photography-Website
+                    <Link href="https://github.com/Aimireal/Photography-Blog">
+                        https://github.com/Aimireal/Photography-Blog
                     </Link> <ExternalLinkIcon></ExternalLinkIcon>
                 </ListItem>
                 <ListItem>
