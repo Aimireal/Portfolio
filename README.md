@@ -20,4 +20,3 @@ Link in the about or go to [here](https://portfolio-showcase-aimireal.vercel.app
 
 ## To-Do:
 - Ongoing: Add new projects that are showcase worthy
-- Update University project section
