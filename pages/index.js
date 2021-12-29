@@ -94,11 +94,11 @@ const Page = () => {
                     </Paragraph>
                     <br/>
                     <Paragraph>
-                        In the workplace, it&apos;s a mix between my work for Globab Advocacy
+                        In the workplace, it&apos;s a mix between my work for Global Advocacy
                         in Dubai, in which I worked across their entire conveyancing system
                         and helped train a new hire throughout after working at Fusion for
-                        10 months or perhaps my work for Fusion themselves for the internal
-                        systems and software packages to be sold to their Clientelle. 
+                        10 months. I also took pride in my work for Fusion themselves for the 
+                        internal systems and software packages to be sold to their Clientelle. 
                     </Paragraph>
                 </Section>
             </Container>

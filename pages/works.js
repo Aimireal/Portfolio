@@ -38,7 +38,7 @@ const Works = () => (
                 </Section>
                 <Section delay={0.3}>
                     <WorkGridItem id="whispr" title="Whispr" thumbnail={whisprImg}>
-                        WIP: Social media application frontend, middleware and backend
+                        Social media application frontend, middleware and backend
                         with functionality of User accounts, posting and friendship
                     </WorkGridItem>
                 </Section>
