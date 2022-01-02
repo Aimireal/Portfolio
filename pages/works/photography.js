@@ -8,7 +8,7 @@ const Project = () => (
     <Layout>
         <Container>
             <Title>
-                Photography <Badge>2021</Badge>
+                Photography <Badge>2022</Badge>
             </Title>
             <WorkImage
                 src="/images/works/photography-eyecatcher.png"

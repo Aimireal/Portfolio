@@ -22,7 +22,7 @@ const Page = () => {
                 mb={6} 
                 align="center">
                     To view the project file for this, check out the Github button, 
-                    otherwise find my favourite projects in &quot;Works&quot;!
+                    otherwise find my favourite projects in <a href='/works/'>Works!</a>
                 </Box>
                 
                 <Box display={{md:'flex'}}>
@@ -38,10 +38,11 @@ const Page = () => {
                     <Heading as="h3" variant="section-title">
                         About Me:
                     </Heading>
-                    <Paragraph>Dylan is a junior full-stack developer in Yorkshire. He has a Batchelors degree in 
-                        Computing and has worked on a number of different platforms with a variety of technologies. 
-                        He is experienced with the full software development lifecycle and in managing his own projects, 
-                        and producing them from artefact to long-term support.
+                    <Paragraph>Dylan is a junior full-stack developer in Yorkshire. He has 
+                        a First Class Batchelors degree in Computing and has worked on a number 
+                        of different platforms with a variety of technologies. He is experienced 
+                        with the full software development lifecycle, both  the design and 
+                        development of an artefact to long-term support.
                     </Paragraph>
                     <Box align="center" my={4}>
                         <NextLink href="/works">
@@ -95,10 +96,10 @@ const Page = () => {
                     <br/>
                     <Paragraph>
                         In the workplace, it&apos;s a mix between my work for Global Advocacy
-                        in Dubai, in which I worked across their entire conveyancing system
-                        and helped train a new hire throughout after working at Fusion for
-                        10 months. I also took pride in my work for Fusion themselves for the 
-                        internal systems and software packages to be sold to their Clientelle. 
+                        based in Dubai, in which I worked across their entire conveyancing 
+                        system while helping train a new hire. I also took pride in my work 
+                        for Fusion themselves for the internal systems and software packages 
+                        to be sold to their Clientelle. 
                     </Paragraph>
                 </Section>
             </Container>
