@@ -13,7 +13,7 @@ clean animations between pages and good examples of programming concepts.
 ## Tech Stack
 React, NextJS, Prettier, Eslint, Vercel
 
-![alt_text](https://github.com/Aimireal/Portfolio-Showcase/blob/master/public/images/portfolio.png)
+![alt_text](https://github.com/Aimireal/Portfolio/blob/master/public/images/portfolio.png)
 
 ## To Run:
 Link in the about or go to [here](https://portfolio-showcase-aimireal.vercel.app)
