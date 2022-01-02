@@ -1,16 +1,12 @@
-import NextLink from 'next/link'
 import {
     Container,
     Heading,
     Box,
-    Button,
     useColorModeValue
 } from '@chakra-ui/react'
 import Section from '../components/section'
 import Paragraph from '../components/paragraph'
 import Layout from '../components/layouts/article'
-import { BioSection, BioYear } from '../components/bio'
-import { ChevronRightIcon } from '@chakra-ui/icons'
 
 const Page = () => {
     return(
@@ -27,7 +23,7 @@ const Page = () => {
                         (ACoAACW0_rIBb3kaJs_tMgPMrqf621IZaIUHZmo,1635475053682)/'
                     >&quot;LinkedIn&quot;</a> or if you want to see my projects, navigate to <a href='
                         /works/'
-                    >&quot;Works&quot;!</a>
+                    >Works</a>
                 </Box>
                 
                 <Box display={{md:'flex'}}>
@@ -161,7 +157,7 @@ const Page = () => {
             
                 <Section delay={0.2}> 
                     <Heading as="h3" variant="cv-title">
-                        St Benedict's Catholic Sixth Form (Sept 2014 - Sept 2016)
+                        St Benedict&lsquo;s Catholic Sixth Form (Sept 2014 - Sept 2016)
                     </Heading>
                     <Paragraph>
                         IT QCF - Disctinction, Disctinction*
@@ -178,7 +174,7 @@ const Page = () => {
                 
                 <Section delay={0.2}> 
                     <Heading as="h3" variant="cv-title">
-                        St Bede's Cathloic Grammar School (Sept 2008 - Sept 2014)
+                        St Bede&lsquo;s Cathloic Grammar School (Sept 2008 - Sept 2014)
                     </Heading>
                     <Paragraph>
                         GCSE Level: English, Maths, Computing, Literature, Media, 
@@ -186,7 +182,7 @@ const Page = () => {
                     </Paragraph>
                     <br/>
                     <Paragraph>
-                        Graded with 7 C's, 3 B's and 1 A.
+                        Graded with 7 C&lsquo;s, 3 B&lsquo;s and 1 A.
                     </Paragraph>
                 </Section>
                 <br/>
