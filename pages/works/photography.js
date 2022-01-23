@@ -37,7 +37,7 @@ const Project = () => (
                 </ListItem>
             </List>
             <br/>
-            <WorkImage src="/images/works/placeholder.png"/>
+            <WorkImage src="/images/works/photoblog.png"/>
         </Container>
     </Layout>
 )
