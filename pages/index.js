@@ -66,8 +66,8 @@ const Page = () => {
                     <BioSection>
                         <BioYear>2018</BioYear>
                         Began placement year at Fusion IT as a Junior Full-Stack 
-                        Software Developer on a one-year contract (2018-2019) before 
-                        returning to studies utilising C# and SQL primarially.
+                        Software Developer on a one-year contract (Aug 2018- Sept 2019) 
+                        utilising C# and SQL primarially. Returned to UoH for final year.
                     </BioSection>
                     <br/>
                     <BioSection>
@@ -78,9 +78,16 @@ const Page = () => {
                     <br/>
                     <BioSection>
                         <BioYear>2021</BioYear>
-                        Seeking full-time employment. Self-study for Javascript while
-                        seeking employment oppurtunities and work. Learning JavaScript 
-                        and Flutter primarially.
+                        Studying Javascript while seeking employment oppurtunities and work.
+                        Small works developed in Java/C# and Dart as well.
+                    </BioSection>
+                    <br/>
+                    <BioSection>
+                        <BioYear>2022</BioYear>
+                        Began work at Jetsoft as a Junior Full-Stack Developer, working
+                        on a variety of greenfield projects for various clients utilising
+                        .Net Framework, C#, JavaScript, SQL, WebGL and MS Machine Learning 
+                        Frameworks primarially.
                     </BioSection>
                 </Section>
                 <br/>
